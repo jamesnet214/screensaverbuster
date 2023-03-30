@@ -2,11 +2,6 @@
 using Prism.Ioc;
 using Prism.Modularity;
 using ScreenSaverBuster.Automation.UI.Views;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ScreenSaverBuster.Properties
 {
